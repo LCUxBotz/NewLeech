@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 5756495153
-TELEGRAM_API =
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "9138565666:AAFmN-O1zDzDGso89sXktFvsUVJkMFGaOXY"
+OWNER_ID = "6966764236"
+TELEGRAM_API = "23792772"
+TELEGRAM_HASH = "ea0d95cd3b8c0d3c2b3826bd7fe328d5"
+DATABASE_URL = "mongodb+srv://bharathkalladi38:refaj5BccvHhG2Zl@cluster0.wvsv51o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
 VT_SUBTITLE_LANGUAGE = "en"  # Language code for VT translated subtitles (e.g. en, hi, te, ta)
