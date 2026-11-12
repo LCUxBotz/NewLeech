@@ -15,7 +15,7 @@ class Config:
     AS_DOCUMENT = False
     AUTHORIZED_CHATS = ""
     BASE_URL = ""
-    BOT_TOKEN = ""
+    BOT_TOKEN = "9138565666:AAHfYbt0KwNMUTMMVtGe7nXvVectRul94Zc"
     HELPER_TOKENS = ""
     HELPER_STRINGS = ""
     STREAM_TOKENS = ""
@@ -86,9 +86,9 @@ class Config:
     FILESTREAMS_UPLOAD_URL = ""
     FILESTREAMS_API_KEY = ""
     GDRIVE_ID = ""
-    GD_DESP = "Uploaded with CANTARELLABOTS"
-    AUTHOR_NAME = "cantarellabots"
-    AUTHOR_URL = "https://t.me/cantarellabots"
+    GD_DESP = "Uploaded with LCUxTamil"
+    AUTHOR_NAME = "LCUxTamil"
+    AUTHOR_URL = "https://t.me/LCUxTamil"
     INSTADL_API = ""
     IMDB_TEMPLATE = ""
     IMAGES = []
