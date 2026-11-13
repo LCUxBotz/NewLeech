@@ -1,7 +1,7 @@
 # REQUIRED CONFIG
 BOT_TOKEN = "9138565666:AAHfYbt0KwNMUTMMVtGe7nXvVectRul94Zc"
-OWNER_ID = 6966764236
-TELEGRAM_API = 23792772
+OWNER_ID = "6966764236"
+TELEGRAM_API = "23792772"
 TELEGRAM_HASH = "ea0d95cd3b8c0d3c2b3826bd7fe328d5"
 DATABASE_URL = "mongodb+srv://bharathkalladi38:refaj5BccvHhG2Zl@cluster0.wvsv51o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 # OPTIONAL CONFIG
